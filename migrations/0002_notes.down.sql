@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS note_share;
+DROP TABLE IF EXISTS note;
